@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=codetalks3&style=flat-square)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codetalks3&show_icons=true&theme=radical)
